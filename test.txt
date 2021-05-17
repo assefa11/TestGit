@@ -1,1 +1,28 @@
 this is my first text file
+
+configuring git for github desktop
+
+GitHub Desktop uses the email address you set in your local Git configuration to connect commits with your account on GitHub.
+
+If the commits you make in GitHub Desktop are associated with the wrong account on GitHub, update the email address in your Git configuration using GitHub Desktop.
+
+Tip: Anyone will be able to see the email address in your Git configuration if you make public commits. For more information, see "Setting your commit email address."
+
+Sign in to GitHub or GitHub Enterprise.
+In the upper-right corner of any page, click your profile photo, then click Settings.
+Settings icon in the user bar
+In the left sidebar, click Emails.
+Emails tab
+Copy the email address you'd like to use in your local Git configuration.
+Return to GitHub Desktop.
+Use the File menu, then click Options.
+The Options value in the Settings drop-down menu
+In the Options window, click Git.
+The Git Pane in the Options menu
+In the Name field, type the name you'd like to use for your Git configuration.
+The name field of the Git configuration
+In the Email field, paste the email address you copied from your GitHub or GitHub Enterprise account settings.
+Pasted email address in Git configuration field
+Click Save.
+Save button in Git configuration field
+Further reading

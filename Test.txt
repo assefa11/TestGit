@@ -1,5 +1,5 @@
 this is my first text file
-
+please write css not html files
 configuring git for github desktop
 
 GitHub Desktop uses the email address you set in your local Git configuration to connect commits with your account on GitHub.

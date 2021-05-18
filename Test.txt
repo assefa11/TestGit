@@ -26,3 +26,6 @@ Pasted email address in Git configuration field
 Click Save.
 Save button in Git configuration field
 Further reading
+
+
+**This line is added on remote repository
